@@ -72,6 +72,7 @@
 
 ## 📌 Featured Projects
 - 🚗 **North Way Guide** – Smart tourism and route guidance platform  
-- 🤖 **Gemini AI Chatbot** – AI-powered conversational assistant  
+- 🤖 **AI Chatbot** – AI-powered conversational assistant  
 - 📱 **Local Services Finder** – Android app for local service discovery  
-- 💰 **Budget Management System** – Expense and budget tracking platform  
+- 💰 **Budget Management System** – Expense and budget tracking platform
+- 💰 **SEBatch223 Network** – Batch Network  
